@@ -1,6 +1,24 @@
 Title: Jabberwocky
 Author: Lewis Carroll
 
+                ^    ^
+               / \  //\
+ |\___/|      /   \//  .\
+ /O  O  \__  /    //  | \ \
+/     /  \/_/    //   |  \  \
+@___@'    \/_   //    |   \   \
+   |       \/_ //     |    \    \
+   |        \///      |     \     \
+  _|_ /   )  //       |      \     _\
+ '/,_ _ _/  ( ; -.    |    _ _\.-~        .-~~~^-.
+ ,-{        _      `-.|.-~-.           .~         `.
+  '/\      /                 ~-. _ .-~      .-~^-.  \
+     `.   {            }                   /      \  \
+   .----~-.\        \-'                 .~         \  `. \^-.
+  ///.----..>    c   \             _ -~             `.  ^-`   ^-_
+    ///-._ _ _ _ _ _ _}^ - - - - ~                     ~--,   .-~
+                                                          /.-'
+                                                          
 ’Twas brillig, and the slithy toves
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,

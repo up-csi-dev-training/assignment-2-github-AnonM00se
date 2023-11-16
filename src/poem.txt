@@ -1,5 +1,5 @@
-Jabberwocky
-By Lewis Carroll
+Title: Jabberwocky
+Author: Lewis Carroll
 
                 ^    ^
                / \  //\
@@ -18,7 +18,7 @@ By Lewis Carroll
   ///.----..>    c   \             _ -~             `.  ^-`   ^-_
     ///-._ _ _ _ _ _ _}^ - - - - ~                     ~--,   .-~
                                                           /.-'
-
+                                                          
 ’Twas brillig, and the slithy toves
       Did gyre and gimble in the wabe:
 All mimsy were the borogoves,

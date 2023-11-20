@@ -1,5 +1,6 @@
 Title: Jabberwocky
 Author: Lewis Carroll
+Source: Through the Looking-Glass, and What Alice Found There (1871)
 
                 ^    ^
                / \  //\
